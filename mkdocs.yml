@@ -1,0 +1,28 @@
+site_name: Network Management
+site_description: Network management documentation
+
+site_author: "Alexander Sandoval"
+
+site_url: "https://suga0828.github.io/network-management/"
+
+repo_name: "network-management"
+repo_url: "https://github.com/suga0828/network-management"
+
+docs_dir: .
+
+theme:
+  language: en
+  name: material
+
+nav:
+  - Introducción: README.md
+  - "Tutorials":
+      - "Install CentOS Stream 9": "tutorials/install-centos/README.md"
+      - "Install LAMP Stack": "tutorials/install-LAMP-stack/README.md"
+      - "Install Zabbix": "tutorials/install-zabbix/README.md"
+      - "Install Zabbix Agent on Windows": "tutorials/install-zabbix-agent-windows/index.md"
+      - "Install Postfix Gmail": "tutorials/install-postfix-gmail/index.md"
+
+plugins:
+  - search
+  - same-dir
