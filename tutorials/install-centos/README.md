@@ -1,3 +1,5 @@
+# Install CentOS 9 Stream
+
 1. Download CentOS 9 Stream ISO on [centos.org](https://centos.org/download/) based on your architecture.
 
 To install CentOS 9 Stream using the ISO as a Virtual Machine using [Virtual Box](https://www.virtualbox.org/wiki/Downloads).

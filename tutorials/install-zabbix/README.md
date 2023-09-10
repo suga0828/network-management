@@ -1,4 +1,4 @@
-# Install Zabbix
+# Install Network Monitoring Solution Zabbix
 
 Follow the instruction on [Zabbix Download](https://www.zabbix.com/download) based on your requiredment.
 

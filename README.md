@@ -9,7 +9,7 @@ The next tutorials will cover a set of configuration commonly used in Network Mo
 3. [Install Network Monitoring Solution Zabbix](./tutorials/install-zabbix/) on CentOS 9 Stream.
 4. [Install Zabbix Agent](./tutorials/install-zabbix-agent-windows/) on Windows.
 5. [Install and configure Postfix to use Gmail SMTP](./tutorials/install-postfix-gmail/) on CentOS 9 Stream.
-6. [Create a Zabbix Agent's alert](./tutorials/trigger-alert-zabbix-agent).
+6. [Create and configure Zabbix Agent's alert](./tutorials/trigger-alert-zabbix-agent).
 7. [Install and configure SNMPv3](./tutorials/install-config-SNMPv3/) on CentOS 9 Stream.
 
 ---

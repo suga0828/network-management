@@ -10,7 +10,7 @@ repo_url: "https://github.com/suga0828/network-monitoring"
 
 docs_dir: .
 
-copyright: Alexander Sandoval
+copyright: "@suga0828"
 
 theme:
   favicon: assets/favicon.ico
@@ -23,11 +23,13 @@ theme:
 nav:
   - Home: index.md
   - Tutorials:
-      - tutorials/install-centos/README.md
-      - tutorials/install-LAMP-stack/README.md
-      - tutorials/install-zabbix/README.md
-      - tutorials/install-zabbix-agent-windows/README.md
-      - tutorials/install-postfix-gmail/README.md
+      - Install CentOS 9 Stream: tutorials/install-centos/README.md
+      - Install LAMP Stack: tutorials/install-LAMP-stack/README.md
+      - Install Zabbix: tutorials/install-zabbix/README.md
+      - Install Zabbix Agent: tutorials/install-zabbix-agent-windows/README.md
+      - Install Postfix: tutorials/install-postfix-gmail/README.md
+      - Config Zabbix Agent Alert: tutorials/trigger-alert-zabbix-agent
+      - Install SNMPv3: tutorials/install-config-SNMPv3
 
 plugins:
   - search
