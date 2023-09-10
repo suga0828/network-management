@@ -4,4 +4,4 @@ Go to [zabbix.com/download](https://www.zabbix.com/download_agents?version=6.4&r
 
 #### Monitoring
 
-![Zabbix Agent Monitoring](../../images/zabbix-agent-monitoring.png)
+![Zabbix Agent Monitoring](../../assets/zabbix-agent-monitoring.png)

@@ -1,27 +1,33 @@
-site_name: Network Management
-site_description: Network management documentation
+site_name: Network Monitoring
+site_description: Network Monitoring documentation
 
 site_author: "Alexander Sandoval"
 
-site_url: "https://suga0828.github.io/network-management/"
+site_url: "https://suga0828.github.io/network-monitoring/"
 
-repo_name: "network-management"
-repo_url: "https://github.com/suga0828/network-management"
+repo_name: "suga0828/network-monitoring"
+repo_url: "https://github.com/suga0828/network-monitoring"
 
 docs_dir: .
 
+copyright: Alexander Sandoval
+
 theme:
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
   language: en
-  name: material
+  name: simple-blog
+  components:
+    title: false
 
 nav:
-  - Introducción: README.md
-  - "Tutorials":
-      - "Install CentOS Stream 9": "tutorials/install-centos/README.md"
-      - "Install LAMP Stack": "tutorials/install-LAMP-stack/README.md"
-      - "Install Zabbix": "tutorials/install-zabbix/README.md"
-      - "Install Zabbix Agent on Windows": "tutorials/install-zabbix-agent-windows/index.md"
-      - "Install Postfix Gmail": "tutorials/install-postfix-gmail/index.md"
+  - Home: index.md
+  - Tutorials:
+      - tutorials/install-centos/README.md
+      - tutorials/install-LAMP-stack/README.md
+      - tutorials/install-zabbix/README.md
+      - tutorials/install-zabbix-agent-windows/README.md
+      - tutorials/install-postfix-gmail/README.md
 
 plugins:
   - search

@@ -11,27 +11,3 @@ The next tutorials will cover a set of configuration commonly used in Network Mo
 5. [Install and configure Postfix to use Gmail SMTP](./tutorials/install-postfix-gmail/) on CentOS 9 Stream.
 6. [Create a Zabbix Agent's alert](./tutorials/trigger-alert-zabbix-agent).
 7. [Install and configure SNMPv3](./tutorials/install-config-SNMPv3/) on CentOS 9 Stream.
-
----
-
-## Development
-
-To run docs locally, install <a href="https://www.mkdocs.org/getting-started/" target="_blank">MkDocs</a>, the theme <a href="https://fernandocelmer.github.io/mkdocs-simple-blog/" target="_blank">MkDocs Simple Blog</a> and the plugin <a href="https://github.com/oprypin/mkdocs-same-dir" target="_blank">mkdocs-same-dir</a>.
-
-##### Installation
-
-```bash
-$ pip install mkdocs mkdocs-simple-blog mkdocs-same-dir
-```
-
-##### Execution
-
-```bash
-$ mkdocs serve
-```
-
-##### Deployment
-
-```bash
-$ mkdocs gh-deploy
-```
