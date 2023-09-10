@@ -21,17 +21,17 @@ To run docs locally, install <a href="https://www.mkdocs.org/getting-started/" t
 ##### Installation
 
 ```bash
-$ pip install mkdocs mkdocs-simple-blog mkdocs-same-dir
+pip install mkdocs mkdocs-simple-blog mkdocs-same-dir
 ```
 
 ##### Execution
 
 ```bash
-$ mkdocs serve
+mkdocs serve
 ```
 
 ##### Deployment
 
 ```bash
-$ mkdocs gh-deploy
+mkdocs gh-deploy
 ```
