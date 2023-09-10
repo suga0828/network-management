@@ -28,8 +28,8 @@ nav:
       - Install Zabbix: tutorials/install-zabbix/README.md
       - Install Zabbix Agent: tutorials/install-zabbix-agent-windows/README.md
       - Install Postfix: tutorials/install-postfix-gmail/README.md
-      - Config Zabbix Agent Alert: tutorials/trigger-alert-zabbix-agent
-      - Install SNMPv3: tutorials/install-config-SNMPv3
+      - Config Zabbix Agent Alert: tutorials/trigger-alert-zabbix-agent/README.md
+      - Install SNMPv3: tutorials/install-config-SNMPv3/README.md
 
 plugins:
   - search
